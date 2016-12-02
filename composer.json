@@ -1,0 +1,25 @@
+{
+    "name": "ocoa/connector",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "slim/slim" : "^3.0"
+    },
+    "require-dev": {
+    },
+    "scripts": {
+    },
+    "config": {
+        "platform": {
+            "php": "5.5.9"
+        }
+    },
+    "extra": {
+    }
+}
