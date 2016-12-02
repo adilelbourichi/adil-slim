@@ -1,7 +1,9 @@
 {
-    "name": "ocoa/connector",
-    "license": "proprietary",
+    "name": "adil-slim/adil-slim",
+    "description": "a public Slim package",
+    "license": "Apache-2.0",
     "type": "project",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "": "src/"
